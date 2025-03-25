@@ -12,15 +12,16 @@ public class Exercicio1 {
 			double tangente = Math.tan(angulo);
 
 			System.out.printf("Ângulo %d ", i);
-			System.out.printf(" Seno: %.2f", seno);
-			System.out.printf(" Cosseno: %.2f", cosseno);
+			System.out.printf(" Seno: %.3f", seno);
+			System.out.printf(" Cosseno: %.3f", cosseno);
 
 			if (i == 90 || i == 270){
 				System.out.printf(" Tangente: -----");
 			} else {
-				System.out.printf(" Tangente: %.2f", tangente);
+				System.out.printf(" Tangente: %.3f", tangente);
 				}
 			System.out.println("");
+			System.out.println("-------------------------------------------------------------");
 		}
 	}
 }
