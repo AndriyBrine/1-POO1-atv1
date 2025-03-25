@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 
 
-public class Rallye {
+public class Exercicio5bFuncoes {
+	// Rallye
 	public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
 
