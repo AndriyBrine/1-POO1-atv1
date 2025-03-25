@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class Exercicio1 {
+public class Exercicio1bMathJava {
 
 	public static void main (String[] args){
 		for (int i = 0; i <= 360; i++){
