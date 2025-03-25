@@ -1,4 +1,4 @@
-public class Exercicio2{
+public class Exercicio2bMathJava{
 
 	public static long f_fatorial (int n){
 		long f = 1;
