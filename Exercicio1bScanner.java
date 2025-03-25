@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 public class Exercicio1bScanner{ 
-// Exercício 4
+// Exercício 1
 	public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Temperatura Celsius = ");
