@@ -19,8 +19,9 @@ public class Exercicio5{
             } else{
                 System.out.print("Não é retângulo! ");
             }
-        } else {
+        	} else {
             System.out.print("Não é triângulo! ");
         }
+		scanner.close();
 	}
 }
