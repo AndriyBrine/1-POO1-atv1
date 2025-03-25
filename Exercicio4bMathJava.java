@@ -1,5 +1,5 @@
 import java.lang.Math;
-public class Exercicio4{ 
+public class Exercicio4bMathJava{ 
 
 	public static void main (String[] args){
         float q = 1;
