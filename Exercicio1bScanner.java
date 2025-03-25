@@ -8,7 +8,7 @@ public class Exercicio4{
         int C = scanner.nextInt();
         double F, K; // Pois são decimais
         F = (C * 1.8) + 32;
-        K = C + 273;
+        K = C + 273.15;
         System.out.printf("Fahrenheit = %.2f ", F);
         System.out.println("");
         System.out.printf("Kelvin = %.2f", K);
